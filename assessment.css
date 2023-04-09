@@ -1,19 +1,17 @@
-body {
-    background-color: #f5dd96;
-    color: rgb(103, 37, 88);
+body{
+    background-color: lightslategrey;
+    color: rgb(58, 41, 66);
     width: 500px;
     margin-right: auto;
     margin-left: auto;
-    margin-top: auto;
 }
-
-button {
-    color: #edcb82;
-    padding: 5px 20px;
-    background-color: rgb(103, 37, 88);
+button{
+    color:blueviolet;
+    padding: 3px 20px;
+    background-color:cornflowerblue;
+    border-color: blueviolet;
     border-style: none;
-    border-color: black;
 }
 input{
-    height: 25px;
+    height: 20px;
 }
